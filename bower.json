@@ -15,8 +15,8 @@
     ]
   , "dependencies": {
         "jquery": ">=1.10.2"
-      , "ember": "~1.0.0"
-      , "moment": "~2.2.1"
+      , "ember": ">=1.0.0"
+      , "moment": ">=2.2.1"
     }
   , "license": "MIT"
   , "ignore": [
